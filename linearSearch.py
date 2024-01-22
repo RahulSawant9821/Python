@@ -12,6 +12,6 @@ def linear_Search(numbers,c):
     return -1
 
 
-
+#Time Complexity : O(n)
 
 index =  linear_Search(numbers,choice)
